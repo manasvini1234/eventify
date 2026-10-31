@@ -335,4 +335,3 @@ class _EventifyHomePageState extends State<EventifyHomePage> {
     );
   }
 }
-import 'event_details_screen.dart';
