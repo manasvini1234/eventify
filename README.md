@@ -126,3 +126,15 @@ B.Tech Computer Science Engineering
 
 This project is created for educational and portfolio purposes.
 >>>>>>> 217d618486c47f11ae245749694e7463759582e4
+## Project Overview
+
+Eventify is a Flutter application designed to make event management easier.
+
+## Technologies Used
+- Flutter
+- Dart
+
+## Features
+- User-friendly interface
+- Easy navigation
+- Responsive design
