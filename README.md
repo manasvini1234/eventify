@@ -10,14 +10,6 @@
 * **Degree:** B.Tech — Computer Science & Engineering
 * **GitHub Profile:** [@manasvini1234](https://github.com/manasvini1234)
 * **Repository:** [https://github.com/manasvini1234/eventify](https://github.com/manasvini1234/eventify)
-
----
-
-## 📚 Syllabus & Experiment Index (10 Experiments)
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
