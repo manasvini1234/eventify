@@ -15,18 +15,6 @@
 
 ## 📚 Syllabus & Experiment Index (10 Experiments)
 
-| Exp # | Title | Objective | Key Implementation Files |
-| :---: | :--- | :--- | :--- |
-| **1** | **Flutter SDK & Dart Basics** | Install Flutter & Dart SDK; write Dart program to understand language basics | `bin/dart_basics.dart`, `pubspec.yaml` |
-| **2** | **Widgets & Layout Structures** | Explore core widgets (Text, Image, Container) & layout structures (Row, Column, Stack) | `widgets_exploration_screen.dart`, `layouts_exploration_screen.dart` |
-| **3** | **Responsive UI & Breakpoints** | Design responsive UI adapting across screen sizes; implement media queries and breakpoints | `responsive_grid_screen.dart`, `utils/responsive.dart`, `media_query_demo_screen.dart` |
-| **4** | **Screen Navigation & Routes** | Set up navigation between different screens using Navigator and named routes | `event_list_screen.dart`, `event_details_screen.dart`, `routes/app_routes.dart` |
-| **5** | **State Management & Provider** | Learn about stateful/stateless widgets; implement state management using setState and Provider | `state_comparison_screen.dart`, `providers/favorites_provider.dart`, `provider_demo_screen.dart` |
-| **6** | **Custom Widgets & Theming** | Create custom widgets for specific UI elements; apply styling using themes and custom styles | `widgets/event_card.dart`, `widgets/category_chip.dart`, `theme/app_theme.dart` |
-| **7** | **Forms & Input Validation** | Design a form with various input fields; implement form validation and error handling | `registration_form_screen.dart`, `validated_registration_screen.dart` |
-| **8** | **Flutter UI Animations** | Add animations to UI elements using Flutter's animation framework (fade, slide, morphing) | `animation_controller_screen.dart`, `multi_animation_screen.dart` |
-| **9** | **REST API Client** | Fetch data from a REST API using the http package; display fetched data in the UI | `models/api_event.dart`, `services/api_service.dart`, `live_api_events_screen.dart` |
-| **10** | **Testing & Debugging Tools** | Write unit and widget tests; use Flutter's debugging tools, error logging, and crash boundaries | `test/unit_test.dart`, `test/widget_test.dart`, `utils/app_logger.dart`, `main.dart` |
 
 ---
 
